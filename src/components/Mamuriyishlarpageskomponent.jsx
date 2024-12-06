@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import AnotherImage from "../img/anotherimage.png";
 import RecommendationImg from "../img/recommendation.png";
 // import JusticeScaleImg from "../img/justice-scale.png";
-import Jismoniyshaxslarimg from "../img/jismoniyshaxslarimg1.webp";
+import Jismoniyshaxslarimg from "../img/Jismoniyshaxslarimg1.webp";
 import Location from "../components/Location";
 
 const Mamuriyishlarpageskomponent = () => {
