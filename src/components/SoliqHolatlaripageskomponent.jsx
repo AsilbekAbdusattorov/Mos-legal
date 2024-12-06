@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Jismoniyshaxslarimg from "../img/jismoniyshaxslarimg4.webp";
+import Jismoniyshaxslarimg from "../img/Jismoniyshaxslarimg4.webp";
 import TaxLawImg from "../img/tax-law.png"; // Qo'shimcha rasm
 import Location from "../components/Location";
 
