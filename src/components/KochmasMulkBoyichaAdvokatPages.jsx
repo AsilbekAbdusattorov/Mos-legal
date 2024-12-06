@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Jismoniyshaxslarimg from "../img/jismoniyshaxslarimg6.webp";
+import Jismoniyshaxslarimg from "../img/Jismoniyshaxslarimg6.webp";
 import RealEstateImg from "../img/real-estate.png";
 import LegalDocumentsImg from "../img/legal-documents.png";
 import Location from "../components/Location";
