@@ -26,12 +26,12 @@ import Jismoniyshaxslarimg4 from "./img/Jismoniyshaxslarimg4.webp";
 import Jismoniyshaxslarimg5 from "./img/Jismoniyshaxslarimg5.webp";
 import Jismoniyshaxslarimg6 from "./img/Jismoniyshaxslarimg6.webp";
 
-import Yuridikshaxslarimg1 from "./img/yuridikshaxslarimg1.webp";
-import Yuridikshaxslarimg2 from "./img/yuridikshaxslarimg2.webp";
-import Yuridikshaxslarimg3 from "./img/yuridikshaxslarimg3.webp";
-import Yuridikshaxslarimg4 from "./img/yuridikshaxslarimg4.webp";
-import Yuridikshaxslarimg5 from "./img/yuridikshaxslarimg5.webp";
-import Yuridikshaxslarimg6 from "./img/yuridikshaxslarimg6.webp";
+import Yuridikshaxslarimg1 from "./img/Yuridikshaxslarimg1.webp";
+import Yuridikshaxslarimg2 from "./img/Yuridikshaxslarimg2.webp";
+import Yuridikshaxslarimg3 from "./img/Yuridikshaxslarimg3.webp";
+import Yuridikshaxslarimg4 from "./img/Yuridikshaxslarimg4.webp";
+import Yuridikshaxslarimg5 from "./img/Yuridikshaxslarimg5.webp";
+import Yuridikshaxslarimg6 from "./img/Yuridikshaxslarimg6.webp";
 
 export const jismoniyShaxslarData = [
   {
